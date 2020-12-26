@@ -3,4 +3,6 @@ This is a Java Swing application which supports the user interface for BinarySea
 
 This application uses Memento Design Pattern to achieve undo functionality.
 
+Download the project and run TreeGUIDriver to see the results.
+
 <img src="https://github.com/avinashpatnaik/BinarySearchOperationsUserInterface/blob/main/TreeInsertOperations.png" align="middle"/>
